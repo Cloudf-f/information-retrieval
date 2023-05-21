@@ -1,0 +1,8 @@
+__pycache__/
+legal_corpus_index/
+model_trained/
+pretrained_model/
+src/GC-DPR/data/
+data/
+data_preprocessed/
+dpr/
