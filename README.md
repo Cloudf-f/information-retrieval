@@ -1,5 +1,6 @@
 # Information Retrieval
 Use Dense Passage Retrieval (DPR) for information retrieval.
+
 Gradient Cached Dense Passage Retrieval ([GC-DPR](https://github.com/luyug/GC-DPR)) - is an extension of the original DPR library.
 With GC-DPR , you can reproduce the state-of-the-art open Q&A system trained on 8 x 32GB V100 GPUs with a single 11 GB GPU.
 
