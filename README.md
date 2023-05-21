@@ -1,6 +1,6 @@
 # Information Retrieval
 
-## Dataset: Zalo Ai 2021
+## Dataset: Zalo AI 2021
 
 ## Follow train:
 - Preprocessing data
