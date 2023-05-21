@@ -1,4 +1,5 @@
 # Information Retrieval
+Use Dense Passage Retrieval for information retrieval
 
 ## Dataset: Zalo AI 2021
 
